@@ -1,0 +1,1 @@
+Please insert quarters or 1 dollar bills into the machine that equal or surpass the value 0.75$, before or after doing that please make a choice via the keypad as to which product you would like. The machine should dispense change to you if necessary and then your product.

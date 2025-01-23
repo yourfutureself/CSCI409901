@@ -1,0 +1,4 @@
+the vending machine has 2 specifications:
+1. It can 25 cents and $1 bill
+
+2. You can get 12 ounce 3 types of soda cans and and 3 types of snacks. Everything costs 75 cents per unit.
